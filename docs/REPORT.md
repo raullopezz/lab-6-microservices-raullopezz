@@ -23,7 +23,7 @@ If we access to this application on the navigator with _localhost:8761_, this is
 ![image](/docs/step2_1.png)
 
 And we will see this on the terminal:
-![image](/docs/step2_1.png)
+![image](/docs/step2_1_2.png)
 
 Then, we will launch the service config. It will use the port 8762 and will provide the configuration for the other services.
 We can observe something like the following picture (_localhost:8762/account-service/default & terminal_):
